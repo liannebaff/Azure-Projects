@@ -8,7 +8,7 @@ The project includes:
 - Exploration of non-relational database concepts.
 - End-to-end ETL workflow exercises (using Azure Data Factory)
 
-Screenshots, outputs and example SQL queries are included in my Data Technician workbook.
+Screenshots, outputs and example SQL queries are included in my [Data Technician bootcamp workbook](files/Data-Technician-Workbook-ADF.pdf).
 
 
 ---
@@ -62,7 +62,7 @@ INNER JOIN [SalesLT].[Product] ON [SalesLT].[ProductCategory].ProductCategoryID=
 GROUP BY [SalesLT].[ProductCategory].Name; 
 ```
 #### NoSQL and Data Factory
-Completed exercises using Azure Cosmos DB, a cloud-based NoSQL database and practiced end-to end data integration in Data Factory. These exercises, including screenshots, are showcased in my Data Technician bootcamp workbook.
+Completed exercises using Azure Cosmos DB, a cloud-based NoSQL database and practiced end-to end data integration in Data Factory. These exercises, including screenshots, are showcased in my [Data Technician bootcamp workbook](files/Data-Technician-Workbook-ADF.pdf).
 
 ---
 ### 🪞Reflections
