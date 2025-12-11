@@ -8,7 +8,7 @@ The project includes:
 - Exploration of non-relational database concepts.
 - End-to-end ETL workflow exercises (using Azure Data Factory)
 
-Screenshots, outputs and example SQL queries are included in my [Data Technician bootcamp workbook](files/Data-Technician-Workbook-ADF.pdf).
+Screenshots, outputs and example SQL queries are included in my [Data Technician bootcamp workbook](Data-Technician-Workbook-ADF.pdf).
 
 
 ---
