@@ -1,14 +1,14 @@
 # Azure Projects
 
 ### 📝 Project Summary
-This repository contains exercises completed as part of the Azure Fundamentals module of the Data Technician bootcamp. It showcases hands-on practice with SQL, non-relational databases and Azure Data Factory. The exercises cover a variety of skills relevant to data analysis, data engineering and cloud-based data workflows.
+This repository contains exercises completed as part of the Azure Fundamentals module of the data technician bootcamp. It showcases hands-on practice with SQL, non-relational databases and Azure Data Factory. The exercises cover a variety of skills relevant to data analysis, data engineering and cloud-based data workflows.
 
 The project includes:
 - SQL exercises using Azure SQL.
 - Exploration of non-relational database concepts.
-- End-to-end ETL workflow exercises (using Azure Data Factory)
+- End-to-end ETL workflow exercises (using Azure Data Factory).
 
-Screenshots, outputs and example SQL queries are included in my [Data Technician bootcamp workbook](Data_Technician_Workbook_ADF.pdf).
+Screenshots, outputs and example SQL queries are included in my [data technician bootcamp workbook](Data_Technician_Workbook_ADF.pdf).
 
 
 ---
@@ -20,7 +20,7 @@ Screenshots, outputs and example SQL queries are included in my [Data Technician
 
 ---
 ### 🔎 Example SQL Queries
-Below are some exmaples of SQL queries performed using the AdventureWorks sample database in an Azure lab on SKillable. 
+Below are some exmaples of SQL queries performed using the AdventureWorks sample database in an Azure lab on Skillable. 
 
 **1. Total Quantity Sold per Product**
 ``` sql
@@ -62,7 +62,7 @@ INNER JOIN [SalesLT].[Product] ON [SalesLT].[ProductCategory].ProductCategoryID=
 GROUP BY [SalesLT].[ProductCategory].Name; 
 ```
 #### NoSQL and Data Factory
-Completed exercises using Azure Cosmos DB, a cloud-based NoSQL database and practiced end-to end data integration in Data Factory. These exercises, including screenshots, are showcased in my [Data Technician bootcamp workbook](Data_Technician_Workbook_ADF.pdf).
+Completed exercises using Azure Cosmos DB, a cloud-based NoSQL database, and practiced end-to-end data integration in Data Factory. These exercises, including screenshots, are showcased in my [Data Technician bootcamp workbook](data_technician_Workbook_ADF.pdf).
 
 ---
 ### 🪞Reflections
